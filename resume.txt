@@ -1,0 +1,59 @@
+Jeet Nathwani
+Vadodara, Gujarat, India
+jeetnathwani660@email.com phone+91-7567120438
+LinkedIn: https://www.linkedin.com/in/jeet-nathwani-274a06271/
+GitHub: https://github.com/JeetNathwani26
+Portfolio: https://portfolio-two-wheat-79.vercel.app/
+Professional Summary
+Full stack Developer with hands-on experience developing responsive and user-friendly web applications using
+React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap. Currently working as a Software Developer
+Intern at Svaapta IT Ally Solutions, contributing to live client projects and collaborating with cross-functional teams
+in an Agile environment. Skilled in building reusable components, integrating REST APIs, and delivering responsive
+web applications with clean and maintainable code.
+Technical Skills
+Languages:JavaScript (ES6+), HTML5, CSS3
+Frontend:React.js, React Router DOM, Vite, React Hooks, Tailwind CSS, Bootstrap
+API Integration:REST APIs, Axios, Fetch API
+Database:MongoDB , MySQL
+AI Development:Prompt Engineering, AI-Assisted Development, RAG Concepts, n8n Workflow Automation
+Tools:Git, GitHub, VS Code, Postman, npm
+Concepts:Responsive Web Design, Component-Based Architecture, Authentication, CRUD Operations,
+State Management
+Experience
+Svaapta IT Ally SolutionsJan 2026 – Present
+Software Developer Intern Vadodara, Gujarat
+•Worked as a Software Developer Intern on live client projects, developing and maintaining modern web applications
+in a collaborative Agile environment.
+•Collaborated with developers and QA teams to implement new features, resolve issues, and maintain code quality
+using Git and GitHub.
+Projects
+KhetMitra – Smart Agriculture Platform
+Live Demo: https://khetmitr-frontend.vercel.app/
+GitHub Repository: available in Jeet's portfolio project section.
+•Developed a full-stack agriculture management platform connecting landowners and managers for efficient farmland
+utilization.
+•Built RESTful backend APIs and managed application data with MongoDB; implemented role-based dashboards
+and authentication for multiple user types.
+•Designed a responsive frontend using React.js and Tailwind CSS.
+Bike Booster – Bike Parts MarketplaceGitHub Repository
+•Developed a full-stack marketplace platform for buying and selling bike parts and accessories, with backend func-
+tionality and WhatsApp-based buyer-seller communication.
+•Designed responsive UI components for improved user experience.
+Cricks11 GitHub Repository
+•Designed and developed responsive user interfaces for a fantasy cricket platform.
+Education
+Sardar Vallabhbhai Patel Institute of TechnologyAug 2024 – Present
+Master of Computer Applications (MCA) Anand, Gujarat
+Sardar Patel UniversityAug 2021 – Mar 2024
+Bachelor of Computer Applications (BCA) Anand, Gujarat
+Alembic Vidyalaya 2021
+Higher Secondary Certificate (HSC) Vadodara, Gujarat
+Vidha Vihar School 2019
+Secondary School Certificate (SSC) Vadodara, Gujarat
+Achievements
+•Presented the AI-Assisted Automation System for Issue Management and Test Failure at the Srajan technical event.
+Languages
+English — Hindi — Gujarati
+Interests
+React.js — Frontend Development — UI/UX Design — Responsive Web Design — Problem
+Solving
