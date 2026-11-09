@@ -16,6 +16,11 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
+To enable the optional two-minute backend heartbeat, set `HEARTBEAT_URL` to
+the deployed API health URL, for example
+`https://your-api.example.com/health`. The task starts and stops with the
+FastAPI process and does not run unless this value is configured.
+
 Open `http://localhost:8000/docs` to test the API.
 
 ## 2. Run the portfolio locally
