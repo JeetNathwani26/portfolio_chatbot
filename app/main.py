@@ -53,7 +53,7 @@ app.add_middleware(CORSMiddleware, allow_origins=settings.cors_origins, allow_me
 
 @app.get("/health")
 async def health() -> dict[str, str]:
-    return {"status": "ok"}
+    return {"status": "ok", "message": "Backend is running"}
 
 
 @app.post("/chat", response_model=ChatResponse)
